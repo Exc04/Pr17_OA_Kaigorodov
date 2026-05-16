@@ -1,0 +1,15 @@
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\bin\Debug\pr17_Kaigorodov.exe.config
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\bin\Debug\pr17_Kaigorodov.exe
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\bin\Debug\pr17_Kaigorodov.pdb
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\MainWindow.g.cs
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\App.g.cs
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov_MarkupCompile.cache
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov_MarkupCompile.lref
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\MainWindow.baml
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov.g.resources
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov.Properties.Resources.resources
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov.exe
+C:\Users\305-8\Desktop\Кайгородов ПР-21\pr17_Kaigorodov\obj\Debug\pr17_Kaigorodov.pdb
